@@ -5,19 +5,20 @@ title: About me
 
 # Work
 
-## Data Science Institute, University of Chicago : <span style="display: block; text-align: right;">*August 2023 - Present*</span>
+### Data Science Institute, University of Chicago : <span style="display: block; text-align: right;">*August 2023 - Present*</span>
 
 - **Teaching**: I have been the instructor of record for Data Science and Computer Science courses at the University of Chicago and the City Colleges of Chicago.
 
 - **Mentorship**: 
-  - **Data Science Clinic**: I mentor UChicago Students at the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, which hosts an experiential, project-based course (DATA 271) at UChicago. Students work in teams alongside a mentor for real-world clients from industry, academia, and social impact organizations.
-  – **Data Science for Social Impact Summer Experience**: I have served as the Instructional faculty and Research Lead of the DSI's summer research outreach program <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a>. This is an eight-week long immersive summer research program that mentors a selective cohort of undergraduate students to pursue research projects with wide-ranging impact on social justice issues related to climate, health, human rights, and financial equity.<br>
+  - **Data Science Clinic**: I mentor UChicago Students at the <a href="https://datascience.uchicago.edu/education/data-science-clinic/" target="_blank">Data Science Clinic</a>, which hosts an experiential, project-based course (DATA 271) at UChicago. Students work in teams alongside a mentor for real-world clients from industry, academia, and social impact organizations. 
+  – **Data Science for Social Impact Summer Experience**: I have served as the Instructional faculty and Research Lead of the DSI's summer research outreach program <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/" target="_blank">Data Science for Social Impact</a>. This is an eight-week long immersive summer research program that mentors a selective cohort of undergraduate students to pursue research projects with wide-ranging impact on social justice issues related to climate, health, human rights, and financial equity.
+<br>
 
 - **Pedagogy**: Co-authoring <a href="https://ds1.datascience.uchicago.edu/intro.html" target="_blank">The Chicago Guide to Data Science</a>, a textbook for the introductory data science course sequence (DATA 118 and DATA 119) at the University of Chicago; *in collaboration with Prof. Dan Nicolae, Prof. Amanda R. Kube Jotte and DSI Preceptors*.<br>
 
 ---
 
-## Quora, Inc. : <span style="display: block; text-align: right;">*August 2022 - March 2023*</span>
+### Quora, Inc. : <span style="display: block; text-align: right;">*August 2022 - March 2023*</span>
 
 - **Machine Learning Engineer**: I worked in the Content Growth and Moderation Team at Quora where I contributed to the following projects.
   - **Reviewer Cost Reduction with Large Language Models**: Trained and deployed Open AI GPT3 models for content moderation queues to auto-review content. Estimated $120,000 monthly reviewer cost reduction.
