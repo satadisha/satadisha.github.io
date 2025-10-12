@@ -28,7 +28,7 @@ title: About me
 
 # Education
 
-- **Doctorate**: <span style="display: inline-block; text-align: right;">*August 2016 - August 2022*</span>
+- **Doctorate**: <span style="text-align: right;">*August 2016 - August 2022*</span>
   - PhD in Computer Science (2018–2024) from the <a href="https://www.binghamton.edu/computer-science/" target="_blank">State University of New York at Binghamton</a>, under the supervision of <a href="https://www.binghamton.edu/computer-science/people/profile.html?id=meng" target="_blank">Dr. Weiyi Meng</a> and <a href="https://cis.temple.edu/~edragut/" target="_blank">Dr. Eduard Dragut</a>
   - Served as Graduate Teaching Assistant at the Department of Computer Science at SUNY Binghamton.
   - Served as Graduate Research Assistant at the Database and Information Retrieval Laboratory at SUNY Binghamton.<br>
