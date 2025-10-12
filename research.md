@@ -48,7 +48,7 @@ permalink: /research/
 
 - **2020** : Satadisha Saha Bhowmick, Eduard C. Dragut and Weiyi Meng <a href="https://ieeexplore.ieee.org/document/9453162" target="_blank">Lightweight Entity Mention Detection in Targetted Twitter Streams</a> – (*TKDE 2021*)
 
--  **2022** : Satadisha Saha Bhowmick <a href="https://www.proquest.com/docview/1839330352?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses" target="_blank">An NLP-based Method for Fact Statement Truthfulness Verification</a> – (*Master’s Thesis*)
+- **2016** : Satadisha Saha Bhowmick <a href="https://www.proquest.com/docview/1839330352?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses" target="_blank">An NLP-based Method for Fact Statement Truthfulness Verification</a> – (*Master’s Thesis*)
 
 ---
 
