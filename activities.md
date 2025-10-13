@@ -59,12 +59,14 @@ I participated in the multi-semester **UChicago Preceptor Professional Developme
 
 ## Service to the Profession
 
-- **Requested Reviewer**:  
+- **Requested Reviewer**:
+  
     - **2026** International Conference on Learning Representations (ICLR)
     - **2025** International Conference on Learning Representations (ICLR)
 
 
-- **External Reviewer**: 
+- **External Reviewer**:
+  
     - **2022** ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)
     - **2021** IEEE International Conference on Data Mining (ICDM)
     - **2020** IEEE International Conference on Data Mining (ICDM)
