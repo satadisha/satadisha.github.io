@@ -22,20 +22,14 @@ permalink: /activities/
   
     - <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2024/" target="_blank">Summer 2024</a>
         - Food Categorization for Center for Good Food Purchasing
-
         - Quotation Extraction – The mBio Project
-
         - Finetuning Transformers for Text Summarization of Form 8Ks - Banktrack
 
     - <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025/" target="_blank">Summer 2025</a>
         - Text Classification for Commercial Debt Tracking
-
         - Q/A Bot for Parsing Country-Specific Agricultural Regulations
-
         - Topic Classification of Grievances Against Palm Oil Producer
-
         - Named Entity Recognition on Congressional Donation Records
-
         - Bias or Stereotype Detection in Online Humorous Content
 
 ---
