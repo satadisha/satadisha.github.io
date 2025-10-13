@@ -7,6 +7,7 @@ permalink: /activities/
 ## Mentorship
 
 - **Data Science Clinic**
+  
     - How Do Fictional Characters Feel? Analyzing Characters’ Emotional Status in YA Novels : in collaboration with Prof. Taraneh Matloob, University of Northern Iowa; <span style="display: inline-block; text-align: right;">*&nbsp;&nbsp; Autumn 2023 - Winter 2024*</span>
 
     - Codebase Optimization and Summarization with Large Language Models : in collaboration with MorningStar Inc.; <span style="display: inline-block; text-align: right;">*&nbsp;&nbsp; Spring 2024*</span>
@@ -17,7 +18,8 @@ permalink: /activities/
 
     - Community Sentiment Analysis for Renewable Energy Development : in collaboration with Invenergy; <span style="display: inline-block; text-align: right;">*&nbsp;&nbsp; Autumn 2025*</span>
 
-- **Data Science for Social Impact Summer Experience** 
+- **Data Science for Social Impact Summer Experience**
+  
     - <a href="https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2024/" target="_blank">Summer 2024</a>
         - Food Categorization for Center for Good Food Purchasing
 
@@ -47,9 +49,9 @@ permalink: /activities/
 
 ---
 
-### Teaching Workshop
+## Teaching Workshop
 
-I am participated in a multi-semester **UChicago Preceptor Professional Development Workshop** with Prof. Anne Close at the City Colleges of Chicago and other DSI Preceptors. During these workshops, we critically reflect upon our ongoing teaching duties, review instructional pedagogy and evidence based teaching practices.
+I participated in the multi-semester **UChicago Preceptor Professional Development Workshop** with Prof. Anne Close at the City Colleges of Chicago and other DSI Preceptors. During these workshops, we critically reflect upon our ongoing teaching duties, review instructional pedagogy and evidence based teaching practices.
 
 - **Fall 2023**: Introduction to the Talents of Teaching
 
