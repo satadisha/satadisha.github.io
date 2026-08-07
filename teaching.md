@@ -11,7 +11,7 @@ I have been the instructor of record for the following courses at the institutio
 
 **Vanderbilt University:** *follows the Semester System*
 
-- DS3100: Fundamentals of Data Science; <span style="display: inline-block; text-align: right;">*&nbsp;&nbsp; Fall 2026*</span>
+- DS3100: Fundamentals of Data Science; <span style="display: inline-block; text-align: right;">*&nbsp;&nbsp; Fall 2026 (upcoming)*</span>
 
 **The University of Chicago:** *follows the Quarter System*
 
